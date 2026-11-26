@@ -1,0 +1,53 @@
+body
+{
+    background: linear-gradient(180deg, #5fa8d3, #0b4f7a);
+    min-height: 100vh;
+    display: flex;
+    padding: 100px;
+    margin: 0;
+
+}
+h1
+{
+    color: #0b3d5c;
+    text-align: center;
+}
+.bai-viet
+{
+    background-color: rgba(255, 255, 255, 0.95);
+    width: 820px;
+    border-radius: 10px;
+    padding: 28px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5); 
+}
+.sapo
+{
+    background-color: #0b3d5c;
+    color: #FFFFFF;
+    font-style: italic;
+    padding: 14px 18px;
+    border-radius: 6px;
+}
+.than
+{
+    color: #0b3d5c;
+}
+p.than
+{
+    text-align: justify;
+}
+
+p.than::first-letter {
+    float: left;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #0b3d5c;
+    line-height: 1;
+    padding-right: 6px;
+}
+img
+{
+    width: 260px;
+    float: right;
+    margin: 0 0 14px 18px;
+}
