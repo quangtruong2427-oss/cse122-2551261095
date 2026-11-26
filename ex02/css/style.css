@@ -1,0 +1,30 @@
+.banner
+{
+    width: 820px;
+    padding: 28px;
+    background: linear-gradient(to bottom, #c9a227, #A88618);
+    color: #FFFFFF;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
+}
+h1
+{
+    text-align: center;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    color: #FFFFFF;
+    font-size: 26px;
+}
+img
+{
+    width: 260px;
+    border: 3px solid rgba(255, 255, 255, 0.85);
+    float: right;
+    margin: 0 0 14px 18px;
+    border-radius: 4px;
+}
+p
+{
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify;
+    color: #FFFFFF;
+}
